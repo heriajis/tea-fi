@@ -26,9 +26,6 @@ Automation Swap Tea Fi
    node index.js
    ```
 
-
-
-===============
-credit
+## credit
 recitativonika
-===============
+
